@@ -1,0 +1,38 @@
+p {
+    font-family: "Lucida Sans Pro";
+}
+
+.first {
+    font-weight: bold;
+    font-family: 'Grenze Gotisch', cursive;
+
+}
+
+.second {
+    font-size: 24px;
+    font-family: 'Henny Penny', cursive;
+}
+
+.third {
+    line-height: 50px;
+    font-family: 'Monoton', cursive;
+}
+
+
+a:default {
+    background-color: firebrick;
+}
+
+a:active {
+    background-color: darksalmon;
+}
+
+
+a:hover {
+    background-color: darkolivegreen;
+}
+
+a:focus {
+    font-weight: bold;
+}
+
